@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Zadfa Zainab! 
-### Python Developer & Tech Explorer
+### Python Developer • Data & AI Explorer
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=zadfa-io&countColor=%232e91ff)](https://github.com/zadfa-io)
 
@@ -14,5 +14,4 @@
 
 <i>Last auto-updated by Python on: <b>2026-08-23 16:20:41 UTC</b></i>
 
-</div>
 </div>
